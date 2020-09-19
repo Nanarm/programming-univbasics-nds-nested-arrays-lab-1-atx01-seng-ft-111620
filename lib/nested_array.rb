@@ -17,6 +17,8 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
+  shelf_1 = ORGANIC_PRODUCE
+  shelf_2 = CONVENTIONAL_PRODUCE
   assembled = [
     shelf_1,
     shelf_2
