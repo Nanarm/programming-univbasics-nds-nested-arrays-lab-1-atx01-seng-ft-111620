@@ -23,6 +23,12 @@ assembled = [ORGANIC_PRODUCE = [
   "Grapes",
   "Avocadoes",
   "Asparagus"
+]]CONVENTIONAL_PRODUCE = [
+  "Grapefruit",
+  "Pineapple",
+  "Oranges",
+  "Watermelon",
+  "Eggplant"
 ]]
 end
 
