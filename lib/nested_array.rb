@@ -17,7 +17,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-assembled = [ORGANIC_PRODUCE, CONVENTIONAL_PRODUCE]
+assembled = [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE]
 end
 
 
