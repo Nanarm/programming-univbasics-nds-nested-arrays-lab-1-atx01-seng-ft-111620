@@ -24,7 +24,7 @@ end
 
 def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character
-  sorted = = [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE].sort
+  sorted = [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE].sort
 end
 
 def matrix_lookup(matrix, row, column)
